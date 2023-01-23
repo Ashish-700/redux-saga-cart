@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 14 Pro Max",
+      "brand": "Apple",
+      "color": "white",
+      "variant": "16Gb, 1tb",
+      "price": "200000Rs",
+      "category": "Mobile",
+      "image": "https://images.hindustantimes.com/tech/img/2022/08/20/original/Untitled_design_-_2022-08-20T143510.743_1660986921934.png"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 14 Pro",
+      "brand": "Apple",
+      "color": "Black",
+      "variant": "8Gb, 500Gb",
+      "price": "1,50,000RS",
+      "category": "Mobile",
+      "image": "https://m.media-amazon.com/images/I/610pghkO81L._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Iphone 14 ",
+      "brand": "Apple",
+      "color": "Star White",
+      "variant": "8Gb, 256Gb",
+      "price": "1,40,000RS",
+      "category": "Mobile",
+      "image": "https://m.media-amazon.com/images/I/71T5NVOgbpL._SX466_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ipod ",
+      "brand": "Apple",
+      "color": "White",
+      "variant": "none",
+      "price": "20,000RS",
+      "category": "Ear Buds",
+      "image": "https://cdn.britannica.com/79/146179-050-A9E577B7/iPod-2001.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mac Book Pro ",
+      "brand": "Apple",
+      "color": "White",
+      "variant": "32 Gb , 2TB",
+      "price": "2,50,000Rs",
+      "category": "Ear Buds",
+      "image": "https://m.media-amazon.com/images/I/61bX2AoGj2L._SX522_.jpg"
+    }
+  ]
+}

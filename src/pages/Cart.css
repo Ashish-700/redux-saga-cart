@@ -1,0 +1,10 @@
+.cart-page-container {
+  color: white;
+  background-color: cadetblue;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-table {
+  border: 2px solid black;
+}
